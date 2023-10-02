@@ -53,10 +53,6 @@ input[type="submit"]:hover {
     color: 333;
 }
 
-.buttom {
-	margin-bottom: 5px;
-}
-
 
 label span {
 	/* text-align: match-parent; */
